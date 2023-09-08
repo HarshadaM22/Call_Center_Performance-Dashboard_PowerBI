@@ -1,5 +1,5 @@
 # Call_Center_Performance-Dashboard_PowerBI
- This Dashboard genrated using Power BI which provide comprehensive insights into call center performance and customer service metrics. Visualize call volume, response times, customer satisfaction, and more with interactive charts and reports.
+ This Dashboard is generated using the Power BI (Business Intelligence tool) which provides comprehensive insights into call center performance and customer service metrics. Visualize call volume, response times, customer satisfaction, and more with interactive charts and reports.
 
 Features:
 - Real-time data visualization
